@@ -1,5 +1,5 @@
 <div class="Box-body px-5 pb-5">
-  <h2>MacOS Big Sur - Beta 2 (20A4300b) - B360 + i3-8100K + RX 570</h2>
+  <h2>Big Sur - Beta 2 (20A4300b) - B360 + i3-8100K + RX 570</h2>
           
 
 <p>***The USB installation is working now**</p>
