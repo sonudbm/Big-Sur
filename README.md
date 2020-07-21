@@ -9,7 +9,6 @@
 <li>Mainboard: Asus B360 F Gaming</li>
 <li>RAM: Zion 8GB 2400MHz DDR4 (4GBx2)</li>
 <li>SSD: Samsung SSD 970 EVO Plus 500GB</li>
-<li>Wireless: Broadcom BCM943602CS  802.11ac + Bluetooth 4.1</li>
 <li>VGA:
 <ul>
 <li>Intel HD Graphics 630 (Onboard)</li>
